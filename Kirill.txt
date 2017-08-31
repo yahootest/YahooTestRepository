@@ -1,0 +1,15 @@
+(Han-9769) Comment git card by non Github user, comment will not be synced to Github
+(Han-9770) Cards added in X to Git Widget are not synced to Github
+(Han-9769) Comment git card by non Github user, comment will not be synced to Github
+(Han-9768) In list of connected repos, After pressing Really Disconnect for one Repository it will press Disconnect for the next Repository.
+(Han-9742) Comments are synced only one way (not from Github)
+(Han-9740) Tags are not synced to Github
+(Han-9689) Cannot set up value for column for closed items as "None" in GitBoard
+(Han-9739) If you edit a comment on Github \ Hansoft X it won't be updated in Hansoft X \ Github
+(Han-9760) Card titles in X are not updated after changing of Issues names in Github
+(Han-9765) Milestones are not updated from Github to X
+(Han-6895) Change to the new support link (https://help.hansoftx.com)
+(Han-9763) Creating of the second X account using the same email if in Github your email starts from a capital letter
+(Han-9753) 'Preview of a public collection' is still visible after logout from account
+(Han-9688) Button 'Create Widget' doesn't work
+(Han-9689) Cannot set up value for column for closed items as "None" in GitBoard
